@@ -1,13 +1,13 @@
 INCICE DELLE RICETTE
 ====================
-`feedrss`_ 
-`geocoder`_ 
-`ona`_ 
-`query`_ 
-`regex`_ `
-riga_comando`_
-`script`_ 
-`umap`_
+## `feedrss`_ 
+## `geocoder`_ 
+## `ona`_ 
+## `query`_ 
+## `regex`_ `
+## `riga_comando`_
+## `script`_ 
+## `umap`_
  
 .. _feedrss: feedrssindex.html
 .. _geocoder: geocoder/index.html
@@ -19,7 +19,6 @@ riga_comando`_
 .. _umap: umap/index.html
 	
 
-	
 .. toctree::
   :maxdepth: 2
   
