@@ -37,7 +37,7 @@ Da una proposta (https://groups.google.com/d/msg/opendatasicilia/chsV6FZg1qI/dFv
 Il "galateo" di questo spazio
 -----------------------------
 
-Qui su T'ansignari abbiamo un piccolo **`galateo`_**, che stiamo costruendo on the job. Se vuoi partecipare, per favore leggilo.
+Qui su T'ansignari abbiamo un piccolo `galateo`_ , che stiamo costruendo on the job. Se vuoi partecipare, per favore leggilo.
 
 .. _galateo: galateo.html
 
@@ -58,14 +58,7 @@ Contenuti:
     :maxdepth: 2
     :caption: Indice delle ricette
 
-    ricette/feedrss/index
-    ricette/geocoder/index
-    ricette/ona/index
-	ricette/query/index
-	ricette/regex/index
-	ricette/riga_comando/index
-	ricette/script/index
-	ricette/umap/index
+    ricette/index
 	
 .. toctree::
    :maxdepth: 2

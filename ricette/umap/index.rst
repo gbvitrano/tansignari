@@ -1,7 +1,6 @@
 Umap
 ====
 
-
 .. toctree::
    :maxdepth: 3
    
