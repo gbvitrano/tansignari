@@ -72,8 +72,8 @@ background-position: 10px; background-size: 15px; font-weight: bold;}
 
 /* @http://ixmapsdoc.opendatasicilia.it*/
 /* testo menu verticale maiuscolo */	
-.wy-menu-vertical {	font-weight: bold; color:#333333!important; }
-.wy-menu-vertical a {color:#333333!important;}
+.wy-menu-vertical {	font-weight: bold; color:#330000!important; }
+.wy-menu-vertical a {color:#330000!important;}
 
 /* tutto in maiuscolo prima voce di menu */
 div.wy-menu-vertical > ul > li > a {text-transform: none !important; }
@@ -89,15 +89,15 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 /* per applicare underline e colore a voci di menu attive */
 
 /* testo menu verticale primo livello */
-.wy-menu-vertical a:hover { background-color: rgba(255,0,0,1);  color: #ffffff !important;}
+.wy-menu-vertical a:hover { background-color: #996!important;  color: #ffffff !important;}
 .wy-menu a:hover {color: #fff important;}
 .wy-menu a:visited {color: #fff;}
-.wy-menu-vertical a:visited {color: #333333!}
+.wy-menu-vertical a:visited {color: #330000!important;}
 .wy-menu-vertical a:current{color: #fff!}
 
-.wy-menu-vertical a span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical a:hover span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical a:visited span.toctree-expand {color:#333333!important;}
+.wy-menu-vertical a span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical a:hover span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical a:visited span.toctree-expand {color:#330000!important;}
 
 .wy-menu-vertical li span.toctree-expand {isplay: block; float: left; margin-left: -1.2em;  font-size: .8em; line-height: 1.6em; color:#333333;}
 
@@ -107,15 +107,15 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
 .wy-menu-vertical li.toctree-l2.current>a { background: rgba(255,0,0,1); text-transform: none; }
 .wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); text-transform: none; }
-.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #ff0000; text-transform: none;}
+.wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #996; text-transform: none;}
 .wy-menu-vertical li.toctree-l1.current > a {border-bottom: solid 0 #fff; border-top: solid 0 #fff; text-transform: none; }
 .wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(255,0,0,1); text-transform: none;}
-.wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical li.toctree-l3 a:hover span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical li.toctree-l4 a:hover span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical li.toctree-l2 a span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#333333!important;}
-.wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#333333!important;}
+.wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical li.toctree-l3 a:hover span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical li.toctree-l4 a:hover span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical li.toctree-l2 a span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical li.toctree-l3 a span.toctree-expand {color:#330000!important;}
+.wy-menu-vertical li.toctree-l4 a span.toctree-expand {color:#330000!important;}
 
 /* testo menu verticale terzo livello */
 .wy-menu-vertical li.toctree-l3.current li.toctree-l4 > a {background: #9F3A3A;}
@@ -180,14 +180,14 @@ hr  {border: 0; height: 1px; background:  #330000; background-image: linear-grad
 .wy-body-for-nav .keep-us-sustainable {color: #404040; background-color: #404040;}
 
 /* stile pubblcitià */
-div.ethical-text {color: #333333 !important;}
-.ethical-sidebar .ethical-callout, .ethical-footer .ethical-callout {color: #333333 !important;}
-.ethical-rtd .ethical-sidebar a, .ethical-rtd .ethical-sidebar a:visited, .ethical-rtd .ethical-sidebar a:hover, .ethical-rtd .ethical-sidebar a:active {color: #333333 !important; }
+div.ethical-text {color: #330000 !important;}
+.ethical-sidebar .ethical-callout, .ethical-footer .ethical-callout {color: #330000 !important;}
+.ethical-rtd .ethical-sidebar a, .ethical-rtd .ethical-sidebar a:visited, .ethical-rtd .ethical-sidebar a:hover, .ethical-rtd .ethical-sidebar a:active {color: #330000 !important; }
 
 /* icone social */
 .social {font-style: italic; color: #4E4B4B; font-size: 14px;}
-.social a:link{color: #333333;	text-decoration:none;}
-.social a:visited {	color: #333333; text-decoration:none;}
+.social a:link{color: #330000;	text-decoration:none;}
+.social a:visited {	color: #330000; text-decoration:none;}
 .social a:hover {color: #9F3A3A; text-decoration:none; } 
  @media (min-width: 320px) and (max-width: 736px) {.social {font-size: 8.5px;}}
  
