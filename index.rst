@@ -56,7 +56,6 @@ Contenuti:
 
 .. toctree::  
     :maxdepth: 2
-    :caption: Indice delle ricette
 
     ricette/index
 	

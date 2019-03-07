@@ -6,11 +6,9 @@
 **OpenDataSicilia** è una iniziativa civica che si propone di far conoscere e diffondere le prassi dell'_open data_ e la cultura dell'_open government_ e nel territorio e aprire una discussione pubblica partecipata.<br>
 È un gruppo di cittadini con diverse storie, competenze, professioni, accomunate dalla volontà di contribuire a migliorare la qualità della vita delle persone, con spirito di collaborazione e concretezza.
 
-## La genesi di questo sito
+## Come nasce questo contenitore
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam sed quam mollis, condimentum erat a, tristique nulla. Proin in tellus in purus bibendum bibendum. Suspendisse luctus nunc magna, quis viverra dui interdum at. Suspendisse consequat urna vel cursus elementum. Ut sed vulputate nisi, eu malesuada tellus. Quisque ornare ullamcorper nibh, posuere tempor erat lacinia nec. Etiam vehicula nisl volutpat mi porttitor tincidunt. Donec porttitor mattis varius. Quisque varius nibh vel nulla laoreet, id tincidunt nunc mollis.
-
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tortor tortor, ullamcorper at quam dignissim, imperdiet venenatis elit. Aliquam dignissim tellus ligula, ac dignissim mi elementum at. Aliquam aliquet porta dolor, in ultrices lorem tempor eget. Cras venenatis fringilla libero, eget imperdiet sapien luctus a. Nullam ultrices laoreet augue et viverra. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Da una [proposta](https://groups.google.com/d/msg/opendatasicilia/chsV6FZg1qI/dFvHx_u-EAAJ) nella mailing list di OpenDataSicilia.
 
 ## Anagrafica
 
