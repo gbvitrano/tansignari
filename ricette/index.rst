@@ -18,7 +18,7 @@ INCICE DELLE RICETTE
 - `umap`_
 
  
-.. _feedrss: feedrssindex.html
+.. _feedrss: feedrss/index.html
 .. _geocoder: geocoder/index.html
 .. _ona: ona/index.html
 .. _query: query/index.html
@@ -31,11 +31,11 @@ INCICE DELLE RICETTE
 .. toctree::
   :maxdepth: 2
   
-    feedrss/index
-    geocoder/index
-    ona/index
-	query/index
-	regex/index
-	riga_comando/index
-	script/index
-	umap/index
+  feedrss/index
+  geocoder/index
+  ona/index
+  query/index
+  regex/index
+  riga_comando/index
+  script/index
+  umap/index
