@@ -1,21 +1,21 @@
 INCICE DELLE RICETTE
 ====================
 
-## `feedrss`_ 
+- `feedrss`_ 
 
-## `geocoder`_ 
+- `geocoder`_ 
 
-## `ona`_ 
+- `ona`_ 
 
-## `query`_ 
+- `query`_ 
 
-## `regex`_ 
+- `regex`_ 
 
-## `riga_comando`_
+- `riga_comando`_
 
-## `script`_ 
+- `script`_ 
 
-## `umap`_
+- `umap`_
 
  
 .. _feedrss: feedrssindex.html
@@ -31,11 +31,11 @@ INCICE DELLE RICETTE
 .. toctree::
   :maxdepth: 2
   
-    ricette/feedrss/index
-    ricette/geocoder/index
-    ricette/ona/index
-	ricette/query/index
-	ricette/regex/index
-	ricette/riga_comando/index
-	ricette/script/index
-	ricette/umap/index
+    feedrss/index
+    geocoder/index
+    ona/index
+	query/index
+	regex/index
+	riga_comando/index
+	script/index
+	umap/index
