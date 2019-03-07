@@ -5,7 +5,7 @@
 /*importa i font fontawesome 5.0 per i loghi social*/
  @import url(https://use.fontawesome.com/releases/v5.1.0/css/all.css);
 
-body {color: #333333 !important;}
+body {color: #330000 !important;}
 /* Testo paragrafo giustificto*/
 p {text-align: justify !important;} 
 
@@ -29,9 +29,9 @@ background-color: rgba(27,31,35,0.05) !important;
    }}
    
 /* Colore Titolo*/
-h1 {color: #333333 !important; font-size: 145%!important;}
-h2 {color: #333333 !important; font-size: 130%!important;}
-h3 {color: #333333 !important; font-size: 120%!important;}
+h1 {color: #330000 !important; font-size: 145%!important;}
+h2 {color: #330000 !important; font-size: 130%!important;}
+h3 {color: #330000 !important; font-size: 120%!important;}
 h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin-top: 0.25em!important; margin-bottom: 0.257em!important; }
 
  /* disattiva testo latest  menu sx */
@@ -58,7 +58,7 @@ h1, h2, .rst-content .toctree-wrapper p.caption, h3, h4, h5, h6, legend { margin
 /* background nav-top sx*/
 .wy-side-nav-search {background:  #ffffff;}
 /* box search sx*/
-.wy-side-nav-search input[type="text"] {border-color: #FF0000; background-image: url(https://raw.githubusercontent.com/opendatasicilia/iXMapsDoc/master/static/search_01.png); background-repeat: no-repeat; 
+.wy-side-nav-search input[type="text"] {border-color: #996; background-image: url(https://raw.githubusercontent.com/opendatasicilia/iXMapsDoc/master/static/search_01.png); background-repeat: no-repeat; 
 background-position: 10px; background-size: 15px; font-weight: bold;} 
 .wy-side-nav-search input[type="text"] {padding: 6px 30px;}
 
@@ -147,7 +147,7 @@ a:visited {color: #FF0000; text-decoration:none; }
 	
 /* mobile logo */
 .wy-nav-top { background-image: url(https://raw.githubusercontent.com/gbvitrano/tansignari/master/img/logo_mobile.png);
-background-repeat: no-repeat;background-position: center;background-color: #ff0000; }
+background-repeat: no-repeat;background-position: center;background-color: #996; }
 /* aumenta leggerhente lo spazio della pagina inmobile ed inserisce il logo QGIS al centro*/
 @media (min-width: 320px) and (max-width: 1023px) {.wy-nav-content-wrap .wy-nav-content {padding: 1.0em; /*background-image:url(https://raw.githubusercontent.com/gbvitrano/HfcQGIS/master/img/qsfondo_800.png)!important;  background-repeat: no-repeat!important;  background-position: center center!important;     background-size: 95%!important;  background-attachment: fixed !important;  -webkit-backface-visibility: hidden !important;*/ background: #efefef; }}
 @media (min-width: 320px) and (max-width: 1023px) {h2 {color: #333333 !important; font-size: 115%!important;} }
