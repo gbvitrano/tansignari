@@ -103,13 +103,13 @@ li.current > a:active {    text-decoration: underline;	color: white !important;}
 
 /* @http://ixmapsdoc.opendatasicilia.it*/
 /* testo menu verticale secondo livello */
-.wy-menu-vertical li.hover a {background-color: rgba(255,0,0,0.5); text-transform: none;}
+.wy-menu-vertical li.hover a {background-color: rgba(102,51,51,0.5); text-transform: none;}
 /*.wy-menu-vertical li.current a {background-color: rgba(193,224,69,0.3);}*/
-.wy-menu-vertical li.toctree-l2.current>a { background: rgba(255,0,0,1); text-transform: none; }
+.wy-menu-vertical li.toctree-l2.current>a { background: rgba(102,51,51,1); text-transform: none; }
 .wy-menu-vertical li.toctree-l2.hover>a { background: rgba(193,224,69,0.75); text-transform: none; }
 .wy-menu-vertical li.on a, .wy-menu-vertical li.current > a {background: #996; text-transform: none;}
 .wy-menu-vertical li.toctree-l1.current > a {border-bottom: solid 0 #fff; border-top: solid 0 #fff; text-transform: none; }
-.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(255,0,0,1); text-transform: none;}
+.wy-menu-vertical li.on a:hover, .wy-menu-vertical li.current > a:hover {background: rgba(102,51,51,1); text-transform: none;}
 .wy-menu-vertical li.toctree-l2 a:hover span.toctree-expand {color:#330000!important;}
 .wy-menu-vertical li.toctree-l3 a:hover span.toctree-expand {color:#330000!important;}
 .wy-menu-vertical li.toctree-l4 a:hover span.toctree-expand {color:#330000!important;}
@@ -132,10 +132,10 @@ a:hover {color: #9F3A3A; text-decoration:underline; }
 a:visited {color: #FF0000; text-decoration:none; }
 
 /* pagina avanti/indietro */
-.btn { background-color:  #ff0000 !important;
+.btn { background-color:  #781F1F !important;
 	color: #ffffff !important;}
 .btn-neutral {
-    background-color:  #ff0000 !important;
+    background-color:  #781F1F !important;
     color: #ffffff !important;}
 .btn-neutral:hover {
     background-color: #9F3A3A !important;
