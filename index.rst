@@ -72,7 +72,7 @@ Contenuti:
 .. toctree::
    :maxdepth: 2
    
-    privacy	
+   privacy
 	
 	
 Licenze
@@ -90,7 +90,7 @@ Mappa del sito
 .. toctree::
    :maxdepth: 2
    
-    sitemap  
+   sitemap  
 
 --------------
 
