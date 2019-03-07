@@ -18,8 +18,9 @@ riga_comando`_
 .. _script: script/index.html
 .. _umap: umap/index.html
 	
+
 	
-	.. toctree::
+.. toctree::
   :maxdepth: 2
   
     ricette/feedrss/index
